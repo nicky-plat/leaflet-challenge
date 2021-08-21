@@ -5,10 +5,10 @@ In this project, I have visualized earthquakes occurring globally using a live A
 Web application is deployed at the following link:
 https://nicky-plat.github.io/leaflet-challenge/
 
-# Technology stack used in developing this web application is as follows:
+Technology stack used in developing this web application is as follows:
 leaflet.js
 HTML/CSS/Bootstrap/Javascript
 GeoJSON
 
-Image from the final app
+Image from the final app:
 <img src="Leaflet-Step-1/Images/map1.png" >
