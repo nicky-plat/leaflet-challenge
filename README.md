@@ -6,6 +6,7 @@ Web application is deployed at the following link:
 
 https://nicky-plat.github.io/leaflet-challenge/
 
+
 Technology stack used in developing this web application is as follows:
 
 leaflet.js
@@ -13,6 +14,7 @@ leaflet.js
 HTML/CSS/Bootstrap/Javascript
 
 GeoJSON
+
 
 Image from the final app:
 
