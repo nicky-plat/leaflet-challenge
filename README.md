@@ -4,7 +4,7 @@ In this project, I have visualized earthquakes occurring globally using a live A
 
 Web application is deployed at the following link:
 
-Technology stack used in developing this web application is as follows:
+# Technology stack used in developing this web application is as follows:
 leaflet.js
 HTML/CSS/Bootstrap/Javascript
 GeoJSON
