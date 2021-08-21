@@ -11,3 +11,4 @@ HTML/CSS/Bootstrap/Javascript
 GeoJSON
 
 Image from the final app
+<img src="Leaflet-Step-1/Images/map1.png" >
